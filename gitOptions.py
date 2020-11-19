@@ -1,36 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@H4trix
-H4trix /
-Python-Notes
-Private
-
-1
-0
-
-    0
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-
-    Settings
-
-Python-Notes/getOptions.py /
-@H4trix
-H4trix Create getOptions.py
-Latest commit 7fd9a88 on Jun 27
-History
-1 contributor
-210 lines (168 sloc) 6.74 KB
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ## Method one
 #!/usr/bin/python
